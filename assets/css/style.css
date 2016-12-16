@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+body, html {
+	-webkit-font-smoothing: antialiased;
+}
+.parallax {
+	height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.row {
+	margin-bottom: 30px;
+}
+
+.home-title {
+	text-transform: uppercase;
+	color: white;
+	margin-top: 50px;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid white;
+	font-size: 60px !important;
+	font-weight: bold; /*must-do*/
+	font-style: italic;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+}
+
+.home-text {
+	color: white;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid white;
+	text-align: center;
+}
+
+.discography-title {
+	text-transform: uppercase;
+	color: white;
+	margin-top: 50px;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid white;
+	font-size: 60px !important;
+	font-weight: bold; /*must-do*/
+	font-style: italic;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+}
+
+.discography-text {
+	color: white;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid white;
+	text-align: center;
+}
+
+/*-------------------- MENU --------------------*/
+/* MENU CONF*/
+.main-nav {
+  width:100vh;    
+  height:45px;
+  position:fixed;
+  z-index: 1;
+  margin-left: 93%;
+
+  -webkit-transform-origin: left top;
+  -webkit-transform:rotate(-90deg) translateX(-100%);
+    
+}
+ul.nav li {    
+  margin-right:0px;
+  float:right;
+  height:100%;
+  line-height:45px;
+  background-color: transparent;
+
+}
+ul.nav a:hover {    
+color: #4BE8CE;
+  background-color: transparent;
+
+}
+ul.nav a {    
+color: #ffffff;
+  background-color: transparent;
+
+}
+
+.menu {
+	position: fixed;
+	left: -60px;
+	width: 20%;
+	height:100%;
+	top: 0;
+	z-index: 10;
+	margin:0;
+cursor: pointer;
+	
+
+}
+
+
+.menu-wrap {
+	position: absolute;
+	top: 0;
+	left: 60px;
+	background-color: rgba(255,255,255,0.1);
+	width: 200px;
+	height: 100%;
+	opacity: 1;
+
+
+	
+}
+
+
+.icons p a{
+display:inline-block; 
+margin-top: 0px;
+ margin-left: 8px; 
+
+ 
+}
+.icons p{margin-bottom: 10px;}
+.icons {
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 25PX;
+	/*margin-top: 283px;*/
+}
+
+.menu .logo a {
+	
+
+    left:20px;
+	margin-top: 36px;
+}
+
+
+.menu img {
+	margin: 10px 0;
+	max-width: 160px;
+}
+.border {
+margin-bottom: 5%;
+		width: 133px;
+	height: 38px;
+	border-style: solid;
+	border-color: #FFFFFF;
+    border-width:0.16px; 
+	width: 133px;
+	height: 38px;
+	display: block; 	
+}
+.icons-bottom {
+		position: absolute;
+		width: 100%;
+		right: 0px;
+		bottom: 0px;
+	}
+	.icons-bottom p {
+		margin-bottom: 0px;
+	}
+	border:nth-of-type(odd) { 
+  background: transparent; 
+}
+.menu a {
+	
+	color: #ffffff;
+	display: block;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 40px;
+	text-transform: uppercase;
+	padding: 0px;
+	margin: 0px;
+	
+
+}
+
+
+.menu a:hover {
+	color: #000000;
+}
+
+.menu a:active {
+	color: #ffffff;
+}
+
+.menu a > i {
+	float: left;
+	display: inline-block;
+	 
+	text-align: left;
+	width: 25px;
+	font-size: 14px;
+	line-height: 40px;
+	margin: 25px 2px;
+padding: 0px;
+	
+	
+}
+
+
+
+
+
+/* Push the body after clicking the menu button */
+.body-push {
+	overflow-x: hidden;
+	position: relative;
+	left: 0;
+}
+
+.body-push-toright {
+	left: 200px;
+}
+
+.body-push-toleft {
+	left: -200px;
+}
+
+
+.menu,
+.body-push {
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+		-ms-transition: all .3s ease;
+		 -o-transition: all .3s ease;
+			transition: all .3s ease;
+}
+

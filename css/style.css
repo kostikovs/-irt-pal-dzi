@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+.parallax {
+	height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-title {
+	text-transform: uppercase;
+	color: white;
+	font-size: 240px !important;
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+}
