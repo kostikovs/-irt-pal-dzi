@@ -60,23 +60,26 @@
 		</nav>
 
 		<section id="home" name="home">
-			<div class="parallax" style="background-image: url('./assets/img/header-bg1.jpg'); height: 100vh;">
+			<div class="parallax home" style="background-image: url('./assets/img/header-bg1.jpg');">
 				<div class="container" >
 					<div class="row">
-						<div class="col-xs-12 col-md-4">
-							<div class="guitar"><img id="cms1" class="cms-editable" src="assets/img/guitar1.png" style="width: 125px; height: 60%"></div>
+						<div class="col-xs-12 col-md-3 no-padding">
+							<div class="guitar">
+								<img src="assets/img/guitar1.png" style="width: 125px; height: 60%">
+							</div>
 						</div>
-						<div class="col-xs-12 col-md-4">
+						<div class="col-xs-12 col-md-5 no-padding">
 							<div class="home-title">
 								<h1>Līvi</h1>
 							</div>
-							<img src="./assets/img/smalks/Smalks1.png" style="max-height: 170px; display: block; margin-left: auto; margin-right: auto">
+							<img src="./assets/img/smalks/Smalks1.png" style="max-height: 200px; display: block; margin-left: auto; margin-right: auto">
 							<div class="home-text">
 								<p>Grupa Līvi ir leģendāra latviešu rokgrupa, kas savu darbību uzsāka 1976. gadā Liepājā. Tā ir viena no visu laiku latviešu populārākajām grupām, kuru pārstāvējuši vairāki Latvijā labi zināmi mūziķi, bet pazīstamākie grupas dalībnieki bijuši Ainars Virga, Aivars Brīze, Ēriks Ķiģelis, Igo un Jānis Grodums. Grupa pastāvēšanas laikā izdevusi vairākus studijas albumus un dziesmu izlases, bet tās pazīstamākie skaņdarbi ir "Dzimtā valoda", "Dzelzsgriezējs", "Dieva dēls", "Piedod man" un citi.</p>
 							</div>
+							<img src="./assets/img/smalks/smalks2.png" style="max-height: 270px; display: block; margin-left: auto; margin-right: auto">
 						</div>
-						<div class="col-xs-12 col-md-4">
-							<img src="./assets/img/ikonas.png" style="width: 100%;">
+						<div class="col-xs-12 col-md-4 no-padding">
+							<img src="./assets/img/ikonas.png" id="person-icons" style="width: 100%;">
 						</div>
 					</div>
 				</div>
@@ -86,16 +89,17 @@
 			<div class="parallax" style="background-image: url('./assets/img/header-bg2.jpg')">
 				<div class="container" >
 					<div class="row">
-						<div class="col-xs-12 col-md-offset-4 col-md-6">
+						<div class="col-xs-12 col-md-offset-4 col-md-5 no-padding">
 							<div class="discography-title">
 								<h1>Diskogrāfija</h1>
 							</div>
-						<div class="col-xs-12 col-md-offset-4 col-md-6">
-						</div>
+						<div class="col-xs-12 col-md-offset-4 col-md-6 no-padding">
 							<img src="./assets/img/smalks/Smalks1.png" style="max-height: 170px; display: block; margin-left: auto; margin-right: auto">
 							<div class="discography-text">
 								<p>Grupa Līvi ir leģendāra latviešu rokgrupa, kas savu darbību uzsāka 1976. gadā Liepājā. Tā ir viena no visu laiku latviešu populārākajām grupām, kuru pārstāvējuši vairāki Latvijā labi zināmi mūziķi, bet pazīstamākie grupas dalībnieki bijuši Ainars Virga, Aivars Brīze, Ēriks Ķiģelis, Igo un Jānis Grodums. Grupa pastāvēšanas laikā izdevusi vairākus studijas albumus un dziesmu izlases, bet tās pazīstamākie skaņdarbi ir "Dzimtā valoda", "Dzelzsgriezējs", "Dieva dēls", "Piedod man" un citi.</p>
 							</div>
+						</div>
+							
 						</div>
 					</div>
 				</div>
