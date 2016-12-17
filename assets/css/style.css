@@ -15,6 +15,12 @@ body, html {
 	margin-bottom: 30px;
 }
 
+/*-------------------- SCROLLBAR --------------------*/
+
+
+
+/*-------------------- TEXT --------------------*/
+
 .home-title {
 	text-transform: uppercase;
 	color: white;
@@ -41,31 +47,9 @@ body, html {
 	margin-top: 50px;
 	padding: 10px 10px 10px 10px;
 	border: 1px solid white;
-	font-size: 60px !important;
-	font-weight: bold; /*must-do*/
-	font-style: italic;
+	font-size: 40px !important;
 	font-family: 'Playfair Display', serif;
 	text-align: center;
-}
-.discography-title2{
-	
-     text-align: center;
-     color: white;
-
-    margin-top: 18px;
-    text-align: centered;
-    
-    font-style: bold;
-    border: 0.16px;
-    border-style: solid;
-   
-    margin-top: 15px;
-}
-.diskog {float: center;
-width:792px;
-margin-right: auto; 
-margin-left: auto;
-padding-right:10px;
 }
 
 .discography-text {
@@ -74,6 +58,10 @@ padding-right:10px;
 	border: 1px solid white;
 	text-align: center;
 }
+
+
+
+
 
 .guitar{
 	padding-left: 100px;
@@ -86,14 +74,7 @@ padding-right:10px;
 	@media only screen and (max-device-width: 480px) {
     .guitar2{display:none;}
 }
-::-webkit-scrollbar{width: 4px;
 
-;}
-
-::-webkit-scrollbar-thumb{/* background-color:rgb(255, 255, 255); */ border-radius: 0;}
-::-webkit-scrollbar-thumb:hover{background-color:rgb(137, 139, 140);}
-
-::-webkit-scrollbar-track{background-color:rgb(81, 78, 79);}
 
 /*-------------------- MENU --------------------*/
 /* MENU CONF*/
