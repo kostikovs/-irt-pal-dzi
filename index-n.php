@@ -276,6 +276,62 @@
 				</div>
 			</div>
 		</section>
-	</body>
+		<section id="galerija" name="galerija">
+			<div class="parallax" style="background-image: url('./assets/img/header-bg4.jpg')">
+				<div class="container" >
+					<div class="row">
+						<div class="col-md-3"></div>
+						<div class="col-md-5 no-padding" style="margin-bottom: 40px !important;">
+							<div class="discography-title">
+								<h1>Galerijas</h1>
+							</div>
+						</div>
+						<div class="col-md-5">
+							<div class="gallery-title"><a href="./assets/img/GAL/1 (1).jpg" style="width: 100%;" data-lightbox="koncerts">
+								<img src="./assets/img/c4.png" style="width: 100%; padding-left: 15px;" alt=""/></a>
+								<h2><center>Koncerts uz kuģa</center></h2>
+							</div>
+							<div><a href="./assets/img/GAL/1 (2).jpg" data-lightbox="koncerts"></a></div>
+							<div><a href="./assets/img/GAL/1 (3).jpg" data-lightbox="koncerts"></a></div>
+							<div><a href="./assetsvimg/GAL/1 (4).jpg" data-lightbox="koncerts"> </a></div>
+							<div><a href="./assets/img/GAL/1 (5).jpg" data-lightbox="koncerts"> </a></div>
+							
+							<div class="gallery-title"><a href="./assets/img/GAL/2 (1).jpg" data-lightbox="koncerts2">
+								<img src="./assets/img/c1.png" style="width: 100%; padding-left: 15px;" alt=""/></a>
+								<h2><center>Saldus saule</center></h2>
+							</div>
+							<div><a href="./assets/img/GAL/2 (2).jpg" data-lightbox="koncerts2"> </a></div>
+							<div><a href="./assets/img/GAL/3 (2).jpg" data-lightbox="koncerts2"></a></div>
+							<div><a href="./assets/img/GAL/2 (4).jpg" data-lightbox="koncerts2"> </a></div>
+						</div>
+						<div class="col-md-1"></div>
+						<div class="col-md-5">
+							<div class="gallery-title"><a href="./assets/img/GAL/3 (1).jpg" data-lightbox="example-set">
+								<img src="./assets/img/c2.png" style="width: 100%; padding-right: 15px;" alt=""/></a>
+								<h2><center>Zelta mikrofons</center></h2>
+							</div>
+							<div><a href="./assets/img/GAL/3.jpg" data-lightbox="example-set"></a></div>
+							<div><a href="./assets/img/GAL/3 (3).jpg"  data-lightbox="example-set"></a></div>
+							<div><a href="./assets/img/GAL/3 (4).jpg" data-lightbox="example-set"></a></div>
 
+							<div class="gallery-title"><a href="./assets/img/GAL/4.jpg" data-lightbox="example-set2">
+								<img src="./assets/img/c3.png" style="width: 100%; padding-right: 15px;" alt=""/></a>
+								<h2><center>Līvi jaunībā</center></h2>
+							</div>
+							<div><a href="./assets/img/GAL/4 (2).jpg" data-lightbox="example-set2" ></a></div>
+							<div><a href="./assets/img/GAL/4 (3).jpg" data-lightbox="example-set2" ></a></div>
+							<div><a href="./assets/img/GAL/4 (4).jpg" data-lightbox="example-set2" ></a></div>
+							<div><a href="./assets/img/GAL/4 (5).jpg" data-lightbox="example-set2" ></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</body>
+	<!-- Javascript faili -->
+	<script src="./assets/js/classie.js"></script>
+    <script src="./assets/js/bootstrap.min.js"></script>
+    <script src="./assets/js/smoothscroll.js"></script>
+	<script src="./assets/js/main.js"></script>
+	<script src="./assets/dist/js/lightbox-plus-jquery.min.js"></script>
 </html>

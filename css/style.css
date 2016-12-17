@@ -134,7 +134,17 @@ body, html {
 	height: 500px;
 }
 
+.gallery-title {
+	text-transform: uppercase;
+	font-family: 'PlayfairDisplay-Regular', 'PlayfairDisplay-Regular-IE';
+	color: #FFF !important;
+	padding-left: 15px;
+	text-decoration: none;
+}
 
+.gallery-title img {
+	margin-top: 20px;
+}
 
 .guitar img {
 	margin: auto;
