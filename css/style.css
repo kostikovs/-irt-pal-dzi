@@ -84,20 +84,55 @@ body, html {
 	margin-top: 50px;
 	padding: 10px 10px 10px 10px;
 	border: 1px solid #7E7A7A;
-	font-size: 30px !important;
+	font-size: 26px !important;
 	font-family: 'PlayfairDisplay-Bold', 'PlayfairDisplay-Bold-IE';
 	text-align: center;
 }
 
-.discography-text {
-	color: #FFF;
-	padding: 10px 10px 10px 10px;
+.disc-layout {
+	height: 100px;
 	border: 1px solid #7E7A7A;
-	text-align: center;
-	font-family: 'PlayfairDisplay-Regular', 'PlayfairDisplay-Regular-IE';
 }
 
+.album .content {
+	border: 1px solid #7E7A7A;
+	height: 190px;
+}
 
+.album .track-list {
+	font-family: 'PlayfairDisplay-Regular', 'PlayfairDisplay-Regular-IE';
+	color: #FFF;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 3px;
+	line-height: 2;
+}
+.album .album-vertical-line.left {
+	height: 20px;
+	border-right: 1px solid #7E7A7A;
+	border-bottom: 1px solid #7E7A7A;
+}
+.album .album-vertical-line.right {
+	height: 20px;
+	border-left: 1px solid #7E7A7A;
+	border-bottom: 1px solid #7E7A7A;
+}
+.album .album-header.left {
+	border-left: 1px solid #7E7A7A;
+}
+.album .album-header.right {
+	border-right: 1px solid #7E7A7A;
+}
+.album .album-title {
+	text-transform: uppercase;
+	font-family: 'PlayfairDisplay-Regular', 'PlayfairDisplay-Regular-IE';
+	color: #FFF;
+	padding-left: 15px;
+}
+.vertical-line {
+	border-left: 1px solid #7E7A7A;
+	height: 500px;
+}
 
 
 
@@ -117,6 +152,10 @@ body, html {
 	.guitar {
 		display: none;
 	}
+	.no-padding {
+		padding: 0 !important;
+		margin: 0 !important;
+	}
 }
 /* Small */
 @media(min-width: 769px) and (max-width: 992px) {
@@ -128,6 +167,10 @@ body, html {
 	}
 	.guitar {
 		display: none;
+	}
+	.no-padding {
+		padding: 0 !important;
+		margin: 0 !important;
 	}
 }
 /* Medium */
@@ -164,6 +207,10 @@ body, html {
 		margin: 0 !important;
 	}
 }
+
+
+
+
 
 
 /*-------------------- MENU --------------------*/

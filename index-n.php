@@ -89,17 +89,188 @@
 			<div class="parallax" style="background-image: url('./assets/img/header-bg2.jpg')">
 				<div class="container" >
 					<div class="row">
-						<div class="col-xs-12 col-md-offset-4 col-md-5 no-padding">
+						<div class="col-md-3"></div>
+						<div class="col-md-5 no-padding">
 							<div class="discography-title">
 								<h1>Diskogrāfija</h1>
 							</div>
-						<div class="col-xs-12 col-md-offset-4 col-md-6 no-padding">
-							<img src="./assets/img/smalks/Smalks1.png" style="max-height: 170px; display: block; margin-left: auto; margin-right: auto">
-							<div class="discography-text">
-								<p>Grupa Līvi ir leģendāra latviešu rokgrupa, kas savu darbību uzsāka 1976. gadā Liepājā. Tā ir viena no visu laiku latviešu populārākajām grupām, kuru pārstāvējuši vairāki Latvijā labi zināmi mūziķi, bet pazīstamākie grupas dalībnieki bijuši Ainars Virga, Aivars Brīze, Ēriks Ķiģelis, Igo un Jānis Grodums. Grupa pastāvēšanas laikā izdevusi vairākus studijas albumus un dziesmu izlases, bet tās pazīstamākie skaņdarbi ir "Dzimtā valoda", "Dzelzsgriezējs", "Dieva dēls", "Piedod man" un citi.</p>
+						</div>
+						<div class="col-md-5">
+							<div class="album">
+								<div class="col-md-9 no-padding album-vertical-line left"></div>
+								<div class="col-md-9 no-padding album-header left">
+									<div class="album-title">
+										<h3>Iedomu pilsēta</h3>
+									</div>
+								</div>
+								<div class="col-md-7 content no-padding">
+									<div class="track-list">
+										1. Mazais Sapnītis<br>
+										2. Saulgriežu Rīts<br>
+										3. Uz Lietiem<br>
+										4. Iedomu pilsēta<br>
+										5. Līviskā Ziņģe<br>
+										6. Rožu Laukums
+									</div>
+								</div>
+								<div class="col-md-5 no-padding">
+									<img class="album-cover" src="./assets/img/1.jpg" width="100%">
+								</div>
+							</div>
+							<div class="album">
+								<div class="col-md-12 no-padding album-vertical-line left"></div>
+								<div class="col-md-12 no-padding album-header left">
+									<div class="album-title">
+										<h3>K.M.K.V.P.</h3>
+									</div>
+								</div>
+								<div class="col-md-7 content no-padding">
+									<div class="track-list">
+										1. Kādā Brīnišķā Dienā<br>
+										2. Es Karājos Tavā Bizē<br>
+										3. Zelta Sirds<br>
+										4. Meitene<br>
+										5. Var Jau Būt<br>
+										6. Kas Mums Ko Var Padarīt
+									</div>
+								</div>
+								<div class="col-md-5 no-padding">
+									<img class="album-cover" src="./assets/img/3.jpg" width="100%">
+								</div>
+							</div>
+							<div class="album">
+								<div class="col-md-12 no-padding album-vertical-line left"></div>
+								<div class="col-md-12 no-padding album-header left">
+									<div class="album-title">
+										<h3>Viva</h3>
+									</div>
+								</div>
+								<div class="col-md-7 content no-padding">
+									<div class="track-list">
+										1. Viva<br>
+										2. Tikai Tev un Man<br>
+										3. Ar Tevi Kopā<br>
+										4. Pēdējais Vilciens<br>
+										5. Ejam Tālāk<br>
+										6. NLO
+									</div>
+								</div>
+								<div class="col-md-5 no-padding">
+									<img class="album-cover" src="./assets/img/5.jpg" width="100%">
+								</div>
+							</div>
+							<div class="album">
+								<div class="col-md-12 no-padding album-vertical-line left"></div>
+								<div class="col-md-12 no-padding album-header left">
+									<div class="album-title">
+										<h3>Pāri visam</h3>
+									</div>
+								</div>
+								<div class="col-md-7 content no-padding">
+									<div class="track-list">
+										1. Nezināmais <br>
+										2. Pāri Visam <br>
+										3. Atdod Sevi Man<br>
+										4. Kāpēc? <br>
+										5. Ej, Vecais, Ej!<br>
+										6. Tu Piederi Man
+									</div>
+								</div>
+								<div class="col-md-5 no-padding">
+									<img class="album-cover" src="./assets/img/7.jpg" width="100%">
+								</div>
 							</div>
 						</div>
-							
+						<div class="col-md-1"></div>
+						<div class="col-md-5">
+							<div class="album">
+								<div class="col-md-3"></div>
+								<div class="col-md-9 no-padding album-vertical-line right"></div>
+								<div class="col-md-12 no-padding album-header right">
+									<div class="album-title">
+										<h3>Līvi</h3>
+									</div>
+								</div>
+								<div class="col-md-7 content no-padding">
+									<div class="track-list">
+										1. Pavasara Iestāšanās<br>
+										2. Deviņvīru Spēks<br>
+										3. Kurzeme<br>
+										4. Dzejnieks<br>
+										5. Saules Ceļš<br>
+										6. Gājputnu Sagaidīšana
+									</div>
+								</div>
+								<div class="col-md-5 no-padding">
+									<img class="album-cover" src="./assets/img/2.jpg" width="100%">
+								</div>
+							</div>
+							<div class="album">
+								<div class="col-md-12 no-padding album-vertical-line right"></div>
+								<div class="col-md-12 no-padding album-header right">
+									<div class="album-title">
+										<h3>Bailes par ziņģēm</h3>
+									</div>
+								</div>
+								<div class="col-md-7 content no-padding">
+									<div class="track-list">
+										1. Bailes Par Ziņģi<br>
+										2. Zīlīte<br>
+										3. Saldus Saule<br>
+										4. Ziņģe Par Bailēm<br>
+										5. Vēju Muzikants<br>
+										6. Laika Dziesmiņa
+									</div>
+								</div>
+								<div class="col-md-5 no-padding">
+									<img class="album-cover" src="./assets/img/4.jpg" width="100%">
+								</div>
+							</div>
+							<div class="album">
+								<div class="col-md-12 no-padding album-vertical-line right"></div>
+								<div class="col-md-12 no-padding album-header right">
+									<div class="album-title">
+										<h3>Spoku koks</h3>
+									</div>
+								</div>
+								<div class="col-md-7 content no-padding">
+									<div class="track-list">
+										1. Seskudāle <br>
+										2. Bruģakmeņi <br> 
+										3. Ostmalas Kvartālā <br>
+										4. Vai Tā Var Būt? <br> 
+										5. Ubaga Dziesma <br>
+										6. Vecais, Mums ir Laimējies
+									</div>
+								</div>
+								<div class="col-md-5 no-padding">
+									<img class="album-cover" src="./assets/img/6.jpg" width="100%">
+								</div>
+							</div>
+							<div class="album">
+								<div class="col-md-12 no-padding album-vertical-line right"></div>
+								<div class="col-md-12 no-padding album-header right">
+									<div class="album-title">
+										<h3>Aprīļa pilieni</h3>
+									</div>
+								</div>
+								<div class="col-md-7 content no-padding">
+									<div class="track-list">
+										1. Durvis<br>
+										2. Jānītis Pīpē<br>
+										3. Slimības<br>
+										4. Aprīļa Pilieni
+									</div>
+								</div>
+								<div class="col-md-5 no-padding">
+									<img class="album-cover" src="./assets/img/8.jpg" width="100%">
+								</div>
+							</div>
+						</div>
+						<div class="col-md-1 no-padding">
+							<div class="guitar" style="float: right; margin-top: 100px;">
+								<img src="assets/img/guitar3.png" style="width: 125px; height: 60%;">
+							</div>
 						</div>
 					</div>
 				</div>
