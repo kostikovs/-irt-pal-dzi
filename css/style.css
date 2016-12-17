@@ -224,9 +224,6 @@ body, html {
 
 
 /*-------------------- MENU --------------------*/
-/* MENU CONF*/
-
-
 .main-nav {
   width:100vh;    
   height:45px;
@@ -237,10 +234,6 @@ body, html {
   -webkit-transform-origin: left top;
   -webkit-transform:rotate(-90deg) translateX(-100%);
     
-}
-
-.nav>li>a:focus, .nav>li>a:hover{
-background: rgb(255, 255, 255) transparent !important; 
 }
 
 ul.nav li {    
