@@ -234,6 +234,18 @@ body, html {
 	.concerts-title {
 		font-size: 14px !important;
 	}
+	#guitar-2 {
+		display: none;
+	}
+	#guitar-3 {
+		display: none;
+	}
+	#guitar-4 {
+		display: none;
+	}
+	#guitar-5 {
+		display: none;
+	}
 }
 /* Small */
 @media(min-width: 769px) and (max-width: 992px) {
@@ -249,6 +261,18 @@ body, html {
 	.no-padding-img {
 		padding: 0 !important;
 		margin: 0 !important;
+	}
+	#guitar-2 {
+		display: none;
+	}
+	#guitar-3 {
+		display: none;
+	}
+	#guitar-4 {
+		display: none;
+	}
+	#guitar-5 {
+		display: none;
 	}
 }
 /* Medium */
