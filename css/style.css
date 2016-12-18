@@ -147,6 +147,15 @@ body, html {
 	line-height: 2;
 }
 
+.galleries-title {
+	text-transform: uppercase;
+	color: #FFF;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #7E7A7A;
+	font-size: 26px !important;
+	font-family: 'PlayfairDisplay-Bold', 'PlayfairDisplay-Bold-IE';
+	text-align: center;
+}
 .gallery-title {
 	text-transform: uppercase;
 	font-family: 'PlayfairDisplay-Regular', 'PlayfairDisplay-Regular-IE';
@@ -154,9 +163,18 @@ body, html {
 	padding-left: 15px;
 	text-decoration: none;
 }
-
 .gallery-title img {
 	margin-top: 20px;
+}
+
+.concerts-title {
+	text-transform: uppercase;
+	color: #FFF;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #7E7A7A;
+	font-size: 26px !important;
+	font-family: 'PlayfairDisplay-Bold', 'PlayfairDisplay-Bold-IE';
+	text-align: center;
 }
 
 .guitar img {
@@ -175,7 +193,7 @@ body, html {
 	.guitar {
 		display: none;
 	}
-	.no-padding {
+	.no-padding-img {
 		padding: 0 !important;
 		margin: 0 !important;
 	}
@@ -191,7 +209,7 @@ body, html {
 	.guitar {
 		display: none;
 	}
-	.no-padding {
+	.no-padding-img {
 		padding: 0 !important;
 		margin: 0 !important;
 	}

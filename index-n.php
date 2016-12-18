@@ -113,7 +113,7 @@
 										6. Rožu Laukums
 									</div>
 								</div>
-								<div class="col-md-5 no-padding">
+								<div class="col-md-5 no-padding-img">
 									<img class="album-cover" src="./assets/img/1.jpg" width="100%">
 								</div>
 							</div>
@@ -134,7 +134,7 @@
 										6. Kas Mums Ko Var Padarīt
 									</div>
 								</div>
-								<div class="col-md-5 no-padding">
+								<div class="col-md-5 no-padding-img">
 									<img class="album-cover" src="./assets/img/3.jpg" width="100%">
 								</div>
 							</div>
@@ -155,7 +155,7 @@
 										6. NLO
 									</div>
 								</div>
-								<div class="col-md-5 no-padding">
+								<div class="col-md-5 no-padding-img">
 									<img class="album-cover" src="./assets/img/5.jpg" width="100%">
 								</div>
 							</div>
@@ -176,7 +176,7 @@
 										6. Tu Piederi Man
 									</div>
 								</div>
-								<div class="col-md-5 no-padding">
+								<div class="col-md-5 no-padding-img">
 									<img class="album-cover" src="./assets/img/7.jpg" width="100%">
 								</div>
 							</div>
@@ -201,7 +201,7 @@
 										6. Gājputnu Sagaidīšana
 									</div>
 								</div>
-								<div class="col-md-5 no-padding">
+								<div class="col-md-5 no-padding-img">
 									<img class="album-cover" src="./assets/img/2.jpg" width="100%">
 								</div>
 							</div>
@@ -222,7 +222,7 @@
 										6. Laika Dziesmiņa
 									</div>
 								</div>
-								<div class="col-md-5 no-padding">
+								<div class="col-md-5 no-padding-img">
 									<img class="album-cover" src="./assets/img/4.jpg" width="100%">
 								</div>
 							</div>
@@ -243,7 +243,7 @@
 										6. Vecais, Mums ir Laimējies
 									</div>
 								</div>
-								<div class="col-md-5 no-padding">
+								<div class="col-md-5 no-padding-img">
 									<img class="album-cover" src="./assets/img/6.jpg" width="100%">
 								</div>
 							</div>
@@ -262,7 +262,7 @@
 										4. Aprīļa Pilieni
 									</div>
 								</div>
-								<div class="col-md-5 no-padding">
+								<div class="col-md-5 no-padding-img">
 									<img class="album-cover" src="./assets/img/8.jpg" width="100%">
 								</div>
 							</div>
@@ -320,7 +320,8 @@
 					<div class="row">
 						<div class="col-md-3"></div>
 						<div class="col-md-5 no-padding" style="margin-bottom: 40px !important;">
-							<div class="discography-title">
+							<img src="./assets/img/smalks/rsz_smalks4.png" style="display: block; margin-left: auto; margin-right: auto">
+							<div class="galleries-title">
 								<h1>Galerijas</h1>
 							</div>
 						</div>
@@ -360,6 +361,41 @@
 							<div><a href="./assets/img/GAL/4 (3).jpg" data-lightbox="example-set2" ></a></div>
 							<div><a href="./assets/img/GAL/4 (4).jpg" data-lightbox="example-set2" ></a></div>
 							<div><a href="./assets/img/GAL/4 (5).jpg" data-lightbox="example-set2" ></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="koncertieraksti" name="koncertieraksti">
+			<div class="parallax home" style="background-image: url('./assets/img/header-bg5.jpg');">
+				<div class="container" >
+					<div class="row">
+						<div class="col-md-2"></div>
+						<div class="col-xs-12 col-md-7">
+							<img src="./assets/img/smalks/smalks4.png" style="max-height: 100px; display: block; margin-left: auto; margin-right: auto">
+							<div class="concerts-title">
+								<h1>Koncertieraksti</h1>
+							</div>
+						</div>
+						<div class="col-xs-12 col-md-offset-2 col-md-7">
+						<img src="./assets/img/smalks/rsz_smalks2.png" style="max-height: 200px; display: block; margin-left: auto; margin-right: auto">
+							<div class="scroll">
+								<div style="height: 555px; overflow-y: scroll;">
+									<center>
+										<div class="embed-responsive embed-responsive-16by9">
+											<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dteR8pk1nLQ"></iframe>
+										</div>
+										<br><br>
+										<div class="embed-responsive embed-responsive-16by9">
+											<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ez3ywepDChg"></iframe>
+										</div>
+										<br><br>
+										<div class="embed-responsive embed-responsive-16by9">
+											<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fQsFEkGUcIE"></iframe>
+										</div>
+									</center>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
