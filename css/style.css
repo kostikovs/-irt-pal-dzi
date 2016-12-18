@@ -196,6 +196,18 @@ body, html {
 		padding: 0 !important;
 		margin: 0 !important;
 	}
+	.home-title {
+		font-size: 14px !important;
+	}
+	.discography-title {
+		font-size: 14px !important;
+	}
+	.galleries-title {
+		font-size: 14px !important;
+	}
+	.concerts-title {
+		font-size: 14px !important;
+	}
 }
 /* Small */
 @media(min-width: 769px) and (max-width: 992px) {
