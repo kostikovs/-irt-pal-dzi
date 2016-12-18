@@ -276,6 +276,44 @@
 				</div>
 			</div>
 		</section>
+		<section  id="portfolio" name="portfolio">
+			<div class="parallax home" style="background-image: url('./assets/img/header-bg1.jpg');">
+				<div class="container" >
+					<div class="row">
+
+
+
+						<div class="col-md-3"></div>
+
+						<div class="col-xs-12 col-md-5">
+							
+							<div class="discography-title">
+								<h1>Biogrāfija</h1>
+							</div>
+						</div>
+
+						<div class="col-xs-11 col-md-11">
+					
+							<img src="./assets/img/smalks/Smalks1.png" style="max-height: 200px; display: block; margin-left: auto; margin-right: auto">
+							<div class="portfolio-text">
+								<p>Līvi bija latviešu roka grupa, kas pastāvēja laika posmā no 1976. līdz 2010. gadam. Līvi ir vienīgā rokgrupa   Latvijā, kurai ir uzcelts piemineklis. Tā tika dibināta Liepājā, satiekoties diviem mūziķiem: Jurim Pavītolam un Ērikam Ķiģelim (grupu ar šādu nosaukumu J. Pavītols izveidoja jau 1972. gadā, bet grupa drīz vien pajuka, jo Juris cieta avārijā un ilgu laiku ārstējās slimnīcā). Dziesma "Vairogi" bija "pirmo" Līvu repertuārā. Grupa tika dibināta jaunatvērtajā Metalurgu kultūras pilī, pieaicinot J. Pavītola sievu Ingrīdu Pavītolu, Andri Krūziņu no bijušās Imanta Kalniņa grupas "2XBBM", kā arī pils direktores Ausmas Grodumas dēlu Jāni Grodumu. Ēriks Ķiģelis mira 1985. gadā, viņa vietā nāca Ainars Virga. 1987. gadā bundzinieku Vilni Krieviņu nomainīja Ainara Virgas brālis Dainis Virga, bet 2003. gadā Dainis Virga mira un viņa vietā atgriezās Vilnis Krieviņš. "Līviem" kopā ir bijuši trīs sastāvi un trīs vadošie solisti. Līdz ar J. Groduma nāvi 2010. gada 15. jūnijā, Ainars Virga paziņoja par grupas "Līvi" darbības izbeigšanu.</p>
+							</div>
+							<img src="./assets/img/smalks/rsz_smalks2.png" style="max-height: 270px; display: block; margin-left: auto; margin-right: auto">
+
+					
+							<img id="cms33" class="cms-editable" class="img-responsive" src="assets\img\l1.jpg" style="max-height: 400px; display: block; margin-left: auto; margin-right: auto" >
+							<img src="./assets/img/smalks/rsz_smalks6.png" style="max-height: 200px; display: block; margin-left: auto; margin-right: auto">
+							<div class="col-xs-1 col-md-1">
+
+							</div>
+							
+						</div>
+
+						
+					</div>
+				</div>
+			</div>
+		</section>
 		<section id="galerija" name="galerija">
 			<div class="parallax" style="background-image: url('./assets/img/header-bg4.jpg')">
 				<div class="container" >
