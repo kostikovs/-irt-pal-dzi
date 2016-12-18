@@ -268,13 +268,9 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-md-1 no-padding">
-							<div class="guitar" style="float: right; margin-top: 100px;">
-								<img src="assets/img/guitar3.png" style="width: 125px; height: 60%;">
-							</div>
-						</div>
 					</div>
 				</div>
+				<img src="assets/img/guitar3.png" id="guitar-2">
 			</div>
 		</section>
 		<section  id="portfolio" name="portfolio">
@@ -313,6 +309,7 @@
 						
 					</div>
 				</div>
+				<img src="assets/img/guitar4.png" id="guitar-3">
 			</div>
 		</section>
 		<section id="gallery" name="gallery">
@@ -365,6 +362,7 @@
 						</div>
 					</div>
 				</div>
+				<img src="assets/img/guitar5.png" id="guitar-4">
 			</div>
 		</section>
 		<section id="koncertieraksti" name="koncertieraksti">
@@ -400,6 +398,7 @@
 						</div>
 					</div>
 				</div>
+				<img src="assets/img/guitar6.png" id="guitar-5">
 			</div>
 		</section>
 	</body>

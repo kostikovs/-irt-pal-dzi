@@ -26,12 +26,14 @@
 body, html {
 	-webkit-font-smoothing: antialiased;
 }
+
 .parallax {
 	height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
 
 /*-------------------- SCROLLBAR --------------------*/
@@ -176,9 +178,33 @@ body, html {
 	text-align: center;
 }
 
-.guitar img {
-	margin: auto;
-	display: block;
+#guitar-2 {
+	position: absolute;
+	top: 500px;
+	right: 200px;
+	height: auto;
+	width: 170px;
+}
+#guitar-3 {
+	position: absolute;
+	top: 300px;
+	right: 200px;
+	height: auto;
+	width: 170px;
+}
+#guitar-4 {
+	position: absolute;
+	top: 400px;
+	right: 200px;
+	height: auto;
+	width: 170px;
+}
+#guitar-5 {
+	position: absolute;
+	top: 280px;
+	right: 200px;
+	height: auto;
+	width: 170px;
 }
 
 /* Extra-Small */
