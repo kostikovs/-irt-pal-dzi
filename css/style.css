@@ -134,6 +134,19 @@ body, html {
 	height: 500px;
 }
 
+.portfolio-text {	color: #FFF;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #7E7A7A;
+	text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+	font-family: 'PlayfairDisplay-Regular', 'PlayfairDisplay-Regular-IE';
+}
+
+.portfolio-text p {
+	line-height: 2;
+}
+
 .gallery-title {
 	text-transform: uppercase;
 	font-family: 'PlayfairDisplay-Regular', 'PlayfairDisplay-Regular-IE';
@@ -224,6 +237,9 @@ body, html {
 
 
 /*-------------------- MENU --------------------*/
+/* MENU CONF*/
+
+
 .main-nav {
   width:100vh;    
   height:45px;
@@ -234,6 +250,10 @@ body, html {
   -webkit-transform-origin: left top;
   -webkit-transform:rotate(-90deg) translateX(-100%);
     
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+background: rgb(255, 255, 255) transparent !important; 
 }
 
 ul.nav li {    
