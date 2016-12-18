@@ -24,7 +24,7 @@
 		<div class="main-nav">
 		     <ul class="nav">
 		        <li><a href="#koncertieraksti" class="smoothScroll">Koncertieraksti</a></li>
-		        <li><a href="#contact" class="smoothScroll">Galerijas</a></li>
+		        <li><a href="#gallery" class="smoothScroll">Galerijas</a></li>
 		        <li><a href="#portfolio" class="smoothScroll">Biogrāfija</a></li>
 		        <li><a href="#about" class="smoothScroll">Diskogrāfija</a></li>
 		        <li><a href="#home" class="smoothScroll">Jaunumi</a></li>
@@ -38,7 +38,7 @@
 					<li class="border"><a href="#home" class="smoothScroll" style="text-transform: uppercase;">Jaunumi</a></li> <!-- Jaunumi -->
 					<li class="border"><a href="#about" class="smoothScroll" style="text-transform: uppercase;">Diskogrāfija</a></li> <!-- Diskogrāfija --> 
 					<li class="border"><a href="#portfolio" class="smoothScroll" style="text-transform: uppercase;">Biogrāfija</a></li> <!-- Biogrāfija --> 
-					<li class="border"><a href="#contact" class="smoothScroll" style="text-transform: uppercase;">Galerijas</a></li> <!-- Galerijas-->
+					<li class="border"><a href="#gallery" class="smoothScroll" style="text-transform: uppercase;">Galerijas</a></li> <!-- Galerijas-->
 					<li class="border"><a href="#koncertieraksti" class="smoothScroll" style="text-transform: uppercase;">Koncertieraksti</a></li>
 				</ul>
 
@@ -76,7 +76,7 @@
 							<div class="home-text">
 								<p>Grupa Līvi ir leģendāra latviešu rokgrupa, kas savu darbību uzsāka 1976. gadā Liepājā. Tā ir viena no visu laiku latviešu populārākajām grupām, kuru pārstāvējuši vairāki Latvijā labi zināmi mūziķi, bet pazīstamākie grupas dalībnieki bijuši Ainars Virga, Aivars Brīze, Ēriks Ķiģelis, Igo un Jānis Grodums. Grupa pastāvēšanas laikā izdevusi vairākus studijas albumus un dziesmu izlases, bet tās pazīstamākie skaņdarbi ir "Dzimtā valoda", "Dzelzsgriezējs", "Dieva dēls", "Piedod man" un citi.</p>
 							</div>
-							<img src="./assets/img/smalks/smalks2.png" style="max-height: 270px; display: block; margin-left: auto; margin-right: auto">
+							<img src="./assets/img/smalks/rsz_smalks6.png" style="display: block; margin-left: auto; margin-right: auto">
 						</div>
 						<div class="col-xs-12 col-md-4 no-padding">
 							<img src="./assets/img/ikonas.png" id="person-icons" style="width: 100%;">
@@ -91,6 +91,7 @@
 					<div class="row">
 						<div class="col-md-3"></div>
 						<div class="col-md-5 no-padding">
+							<img src="./assets/img/smalks/rsz_smalks4.png" style="max-height: 100px; display: block; margin-left: auto; margin-right: auto">
 							<div class="discography-title">
 								<h1>Diskogrāfija</h1>
 							</div>
@@ -113,7 +114,7 @@
 										6. Rožu Laukums
 									</div>
 								</div>
-								<div class="col-md-5 no-padding-img">
+								<div class="col-md-5 no-padding-img no-padding">
 									<img class="album-cover" src="./assets/img/1.jpg" width="100%">
 								</div>
 							</div>
@@ -134,7 +135,7 @@
 										6. Kas Mums Ko Var Padarīt
 									</div>
 								</div>
-								<div class="col-md-5 no-padding-img">
+								<div class="col-md-5 no-padding-img no-padding">
 									<img class="album-cover" src="./assets/img/3.jpg" width="100%">
 								</div>
 							</div>
@@ -155,7 +156,7 @@
 										6. NLO
 									</div>
 								</div>
-								<div class="col-md-5 no-padding-img">
+								<div class="col-md-5 no-padding-img no-padding">
 									<img class="album-cover" src="./assets/img/5.jpg" width="100%">
 								</div>
 							</div>
@@ -176,7 +177,7 @@
 										6. Tu Piederi Man
 									</div>
 								</div>
-								<div class="col-md-5 no-padding-img">
+								<div class="col-md-5 no-padding-img no-padding">
 									<img class="album-cover" src="./assets/img/7.jpg" width="100%">
 								</div>
 							</div>
@@ -201,7 +202,7 @@
 										6. Gājputnu Sagaidīšana
 									</div>
 								</div>
-								<div class="col-md-5 no-padding-img">
+								<div class="col-md-5 no-padding-img no-padding">
 									<img class="album-cover" src="./assets/img/2.jpg" width="100%">
 								</div>
 							</div>
@@ -222,7 +223,7 @@
 										6. Laika Dziesmiņa
 									</div>
 								</div>
-								<div class="col-md-5 no-padding-img">
+								<div class="col-md-5 no-padding-img no-padding">
 									<img class="album-cover" src="./assets/img/4.jpg" width="100%">
 								</div>
 							</div>
@@ -243,7 +244,7 @@
 										6. Vecais, Mums ir Laimējies
 									</div>
 								</div>
-								<div class="col-md-5 no-padding-img">
+								<div class="col-md-5 no-padding-img no-padding">
 									<img class="album-cover" src="./assets/img/6.jpg" width="100%">
 								</div>
 							</div>
@@ -262,7 +263,7 @@
 										4. Aprīļa Pilieni
 									</div>
 								</div>
-								<div class="col-md-5 no-padding-img">
+								<div class="col-md-5 no-padding-img no-padding">
 									<img class="album-cover" src="./assets/img/8.jpg" width="100%">
 								</div>
 							</div>
@@ -314,7 +315,7 @@
 				</div>
 			</div>
 		</section>
-		<section id="galerija" name="galerija">
+		<section id="gallery" name="gallery">
 			<div class="parallax" style="background-image: url('./assets/img/header-bg4.jpg')">
 				<div class="container" >
 					<div class="row">
